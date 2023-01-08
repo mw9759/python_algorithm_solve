@@ -25,4 +25,4 @@ for test_case in range(1, T + 1):
         a_180 = ''.join(map(str, arr_180[i]))
         a_270 = ''.join(map(str, arr_270[i]))
         print(a_90, a_180, a_270)
-
+# zzzzzzzzzzzzzzzzzzzzz
